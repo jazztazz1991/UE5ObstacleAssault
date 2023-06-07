@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Game Development/UN5 Beginner Tutorial/UE5ObstacleAssault/ObstacleAssault/Content/Main.umap",
+				"E:/Game Development/UN5 Beginner Tutorial/UE5ObstacleAssault/ObstacleAssault/Content/SCK_Casual01/BP_PlayerCharacter.uasset",
+				"E:/Game Development/UN5 Beginner Tutorial/UE5ObstacleAssault/ObstacleAssault/Content/BP_ThirdPersonCharacter.uasset",
+				"E:/Game Development/UN5 Beginner Tutorial/UE5ObstacleAssault/ObstacleAssault/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"E:/Game Development/UN5 Beginner Tutorial/UE5ObstacleAssault/ObstacleAssault/Content/SCK_Casual01/Materials/Environment_Materials/MAT_PROMO.uasset"
+			]
+		}
+	]
+}
